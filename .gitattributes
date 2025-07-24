@@ -1,4 +1,3 @@
-*.twbx linguist-detectable=true
-*.twb linguist-detectable=true
 *.twbx linguist-language=Tableau
-*.twb linguist-language=Tableau
+*.twbx linguist-detectable=true
+
